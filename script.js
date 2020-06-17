@@ -105,7 +105,7 @@ let phrases = [
         text: 'Александр творил хрень, за которую должен был быть опыт',
         image: 'https://randomwordgenerator.com/img/picture-generator/5ee0d44b4854b10ff3d8992cc12c30771037dbf85254794e722e7edd974c_640.jpg'
     }, {
-        text: 'must.learn=true must.write=true must.make.memes=false everybody.can.use.comma',
+        text: 'must.learn = true must.write = true must.make.memes = false everybody.can. use.comma',
         image: 'https://randomwordgenerator.com/img/picture-generator/57e5d3464f5bab14f1dc8460962e33791c3ad6e04e50744172297cdc904dcc_640.jpg'
     }, {
         text: 'подобный хахахаах ахахахахахослушать в урет возвыситься достойны лишь те кто побывал на дне ментатью на вики ржакое-нибудь карате запишется',
